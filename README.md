@@ -34,7 +34,7 @@
 
 #### 3、系统结构图
 
-https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/dbd.png
+![](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/dbd.png)
 
 #### 4、 ER图
 
@@ -48,63 +48,63 @@ https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/dbd.png
 
 1. 用户登录界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image012.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image002.jpg)
 
 2. 学生用户登录成功界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image004.jpg)
 
 3. 修改密码界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image006.jpg)
 
 4. 学生课程管理界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image008.jpg)
 
 5. 学生添加课程页面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image010.jpg)
 
 6. 成绩管理界面（可以查看已修完的课程成绩）
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image012.jpg)
 
 7. 学生请假界面以及发起请假界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image014.jpg)
 
 8. 学生借书管理以及发起借书页面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image016.jpg)
 
 9. 教师登录后的出勤信息界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image018.jpg)
 
 10. 点击查询课程名界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![img](C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
 
 11. 成绩管理界面（按照课程号升序，同课程号的成绩按照分数降序排序）
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image022.jpg)
 
 12. 成绩录入界面
 
-![img](file:///C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image024.jpg)
 
 13. 成绩录入完成后界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image032.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image026.jpg)
 
 14. 教师端请假管理界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image032.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image028.jpg)
 
 15. 点击批准后
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image032.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image030.jpg)
 
 16. 信息查询界面
 
@@ -112,31 +112,31 @@ https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/dbd.png
 
 17. 对学号带170的同学进行查询
 
-![img](C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image034.jpg)
 
 18. 宿舍管理员登录之后的生活管理界面以及学生住宿情况
 
-![img](C:/Users/14323/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image036.jpg)
 
 19. 信息查询界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image048.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image038.jpg)
 
 20. 管理员端登陆成功后的学生管理界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image048.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image040.jpg)
 
 21. 学校管理界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image048.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image042.jpg)
 
 22. 生活管理界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image048.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image044.jpg)
 
 23. 信息查询界面
 
-![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image048.jpg)
+![img](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/clip_image046.jpg)
 
 24. 用户管理界面（此界面可添加新的用户）
 
