@@ -34,7 +34,7 @@
 
 #### 3、系统结构图
 
-![](https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/dbd.png)
+https://gitee.com/zyl1432397127/pic-go-img/raw/master/img/dbd.png
 
 #### 4、 ER图
 
